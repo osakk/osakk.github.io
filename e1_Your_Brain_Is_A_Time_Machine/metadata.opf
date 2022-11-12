@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8121307e-13ed-48c5-8120-7cb9a1addda4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8121307e-13ed-48c5-8120-7cb9a1addda4</dc:identifier>
+        <dc:title>Your Brain Is a Time Machine: The Neuroscience and Physics of Time</dc:title>
+        <dc:creator opf:file-as="Buonomano, Dean" opf:role="aut">Dean Buonomano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-03T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"Beautifully written, eloquently reasoned…Mr. Buonomano takes us off and running on an edifying scientific journey." —Carol Tavris, Wall Street Journal In Your Brain Is a Time Machine, leading neuroscientist Dean Buonomano embarks on an "immensely engaging" exploration of how time works inside the brain (Barbara Kiser, Nature). The human brain, he argues, is a complex system that not only tells time, but creates it; it constructs our sense of chronological movement and enables "mental time travel"—simulations of future and past events. These functions are essential not only to our daily lives but to the evolution of the human race: without the ability to anticipate the future, mankind would never have crafted tools or invented agriculture. This virtuosic work of popular science will lead you to a revelation as strange as it is true: your brain is, at its core, a time machine.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>W. W. Norton &amp; Company</dc:publisher>
+        <dc:rights>Copyright © 2017 by Dean Buonomano</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Life Sciences</dc:subject>
+        <dc:subject>Neuroscience</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Cognitive Psychology &amp; Cognition</dc:subject>
+        <dc:subject>Cognitive Neuroscience &amp; Cognitive Neuropsychology</dc:subject>
+        <dc:subject>Time</dc:subject>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
