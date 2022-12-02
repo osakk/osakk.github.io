@@ -697,3 +697,31 @@
     margin-top: 5pt
     }
 
+body {
+    width: 90%;
+    margin: 1em auto;
+    font-family:"Kaiti SC", Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+p.en {
+    /* display: none; */
+    /* 如果以上一行被注释掉，那么，被标记为 p.en 的英文部分就会不显示
+}
+p {
+    margin-bottom: 1em !important;
+    font-size: 18px !important;
+}
+
+p.cn{
+    letter-spacing: 0.1em;
+}
+
+img{
+    width: 90% !important;
+    text-align: center !important;
+}
+
+sup {
+    margin-right: 0.5em;
+}
